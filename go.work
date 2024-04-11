@@ -1,0 +1,8 @@
+go 1.21.5
+
+use (
+	./Group_Works/notes
+	./Itinerary_Prettifier
+	./Weekly_Tasks
+	./Art_Decoder
+)
