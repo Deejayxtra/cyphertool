@@ -1,8 +1,10 @@
-go 1.21.5
+go 1.22.2
 
 use (
 	./Group_Works/notes
 	./Itinerary_Prettifier
 	./Weekly_Tasks
-	./Art_Decoder
+	./art
+	./cars
+	./stations
 )
